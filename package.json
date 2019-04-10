@@ -1,0 +1,9 @@
+{
+  "name": "newrelic-alert-policy-visualizer",
+  "main": "newrelic-alert-policy-visualizer.js",
+  "version": "512.0.0",
+  "author": {
+    "name": "Benedicto Tan",
+    "url": "https://observablehq.com/@tanben"
+  }
+}
